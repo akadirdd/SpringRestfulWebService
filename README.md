@@ -1,4 +1,5 @@
 # SpringRestfulWebService
 Spring Boot - Rest - MySQL
 
-Don't forget set database properties in "application.properties" file
+Developed with Spring Tool Suite, Don't forget set database properties in "application.properties" file,
+Communication with URL.
